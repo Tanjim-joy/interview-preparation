@@ -1,0 +1,7 @@
+E:\Csharp\interview preparation\Reverse Number\bin\Debug\Reverse Number.exe.config
+E:\Csharp\interview preparation\Reverse Number\bin\Debug\Reverse Number.exe
+E:\Csharp\interview preparation\Reverse Number\bin\Debug\Reverse Number.pdb
+E:\Csharp\interview preparation\Reverse Number\obj\Debug\Reverse Number.csproj.AssemblyReference.cache
+E:\Csharp\interview preparation\Reverse Number\obj\Debug\Reverse Number.csproj.CoreCompileInputs.cache
+E:\Csharp\interview preparation\Reverse Number\obj\Debug\Reverse Number.exe
+E:\Csharp\interview preparation\Reverse Number\obj\Debug\Reverse Number.pdb

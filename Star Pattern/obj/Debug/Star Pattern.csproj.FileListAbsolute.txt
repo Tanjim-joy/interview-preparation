@@ -1,0 +1,7 @@
+E:\Csharp\interview preparation\Star Pattern\bin\Debug\Star Pattern.exe.config
+E:\Csharp\interview preparation\Star Pattern\bin\Debug\Star Pattern.exe
+E:\Csharp\interview preparation\Star Pattern\bin\Debug\Star Pattern.pdb
+E:\Csharp\interview preparation\Star Pattern\obj\Debug\Star Pattern.csproj.AssemblyReference.cache
+E:\Csharp\interview preparation\Star Pattern\obj\Debug\Star Pattern.csproj.CoreCompileInputs.cache
+E:\Csharp\interview preparation\Star Pattern\obj\Debug\Star Pattern.exe
+E:\Csharp\interview preparation\Star Pattern\obj\Debug\Star Pattern.pdb

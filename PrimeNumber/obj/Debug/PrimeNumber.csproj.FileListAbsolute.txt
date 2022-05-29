@@ -1,0 +1,6 @@
+E:\Csharp\interview preparation\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+E:\Csharp\interview preparation\PrimeNumber\bin\Debug\PrimeNumber.exe
+E:\Csharp\interview preparation\PrimeNumber\bin\Debug\PrimeNumber.pdb
+E:\Csharp\interview preparation\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+E:\Csharp\interview preparation\PrimeNumber\obj\Debug\PrimeNumber.exe
+E:\Csharp\interview preparation\PrimeNumber\obj\Debug\PrimeNumber.pdb

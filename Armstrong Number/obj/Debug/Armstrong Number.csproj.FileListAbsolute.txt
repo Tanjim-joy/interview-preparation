@@ -1,0 +1,7 @@
+E:\Csharp\interview preparation\Armstrong Number\bin\Debug\Armstrong Number.exe.config
+E:\Csharp\interview preparation\Armstrong Number\bin\Debug\Armstrong Number.exe
+E:\Csharp\interview preparation\Armstrong Number\bin\Debug\Armstrong Number.pdb
+E:\Csharp\interview preparation\Armstrong Number\obj\Debug\Armstrong Number.csproj.AssemblyReference.cache
+E:\Csharp\interview preparation\Armstrong Number\obj\Debug\Armstrong Number.csproj.CoreCompileInputs.cache
+E:\Csharp\interview preparation\Armstrong Number\obj\Debug\Armstrong Number.exe
+E:\Csharp\interview preparation\Armstrong Number\obj\Debug\Armstrong Number.pdb

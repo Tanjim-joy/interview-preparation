@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E40DF842-5296-4DCF-B9F6-734FA45D4620}</ProjectGuid>
+    <ProjectGuid>{36E3B9F2-4F9C-4264-8079-8BA3C8AFCA12}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Factorial_Number</RootNamespace>
-    <AssemblyName>Factorial Number</AssemblyName>
+    <RootNamespace>Calculator</RootNamespace>
+    <AssemblyName>Calculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

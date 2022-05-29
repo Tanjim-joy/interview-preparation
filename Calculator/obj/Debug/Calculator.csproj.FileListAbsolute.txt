@@ -1,0 +1,7 @@
+E:\Csharp\interview preparation\Calculator\bin\Debug\Calculator.exe.config
+E:\Csharp\interview preparation\Calculator\bin\Debug\Calculator.exe
+E:\Csharp\interview preparation\Calculator\bin\Debug\Calculator.pdb
+E:\Csharp\interview preparation\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Csharp\interview preparation\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Csharp\interview preparation\Calculator\obj\Debug\Calculator.exe
+E:\Csharp\interview preparation\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,6 @@
+E:\Csharp\interview preparation\Factorial Number\bin\Debug\Factorial Number.exe.config
+E:\Csharp\interview preparation\Factorial Number\bin\Debug\Factorial Number.exe
+E:\Csharp\interview preparation\Factorial Number\bin\Debug\Factorial Number.pdb
+E:\Csharp\interview preparation\Factorial Number\obj\Debug\Factorial Number.csproj.CoreCompileInputs.cache
+E:\Csharp\interview preparation\Factorial Number\obj\Debug\Factorial Number.exe
+E:\Csharp\interview preparation\Factorial Number\obj\Debug\Factorial Number.pdb

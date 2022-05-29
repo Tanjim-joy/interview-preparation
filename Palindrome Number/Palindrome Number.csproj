@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E40DF842-5296-4DCF-B9F6-734FA45D4620}</ProjectGuid>
+    <ProjectGuid>{410778AA-B195-4D6A-AD8F-83A9AD489DC8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Factorial_Number</RootNamespace>
-    <AssemblyName>Factorial Number</AssemblyName>
+    <RootNamespace>Palindrome_Number</RootNamespace>
+    <AssemblyName>Palindrome Number</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

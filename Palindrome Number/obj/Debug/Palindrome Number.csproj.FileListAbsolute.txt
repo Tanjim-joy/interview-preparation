@@ -1,0 +1,7 @@
+E:\Csharp\interview preparation\Palindrome Number\bin\Debug\Palindrome Number.exe.config
+E:\Csharp\interview preparation\Palindrome Number\bin\Debug\Palindrome Number.exe
+E:\Csharp\interview preparation\Palindrome Number\bin\Debug\Palindrome Number.pdb
+E:\Csharp\interview preparation\Palindrome Number\obj\Debug\Palindrome Number.csproj.AssemblyReference.cache
+E:\Csharp\interview preparation\Palindrome Number\obj\Debug\Palindrome Number.csproj.CoreCompileInputs.cache
+E:\Csharp\interview preparation\Palindrome Number\obj\Debug\Palindrome Number.exe
+E:\Csharp\interview preparation\Palindrome Number\obj\Debug\Palindrome Number.pdb
